@@ -1,0 +1,19 @@
+Google App Engine Download Link
+https://google-app-engine.en.uptodown.com/windows/download
+
+Ex:6
+https://www.youtube.com/watch?v=0aQEgGOF9RE&ab_channel=SHOBINAK
+https://www.youtube.com/watch?v=Jt2ZkVIQYmM&ab_channel=anErik
+
+1. https://youtu.be/ozUvALQw5T8( installation of trystack)
+2. https://youtu.be/lj5D94XHb6g ( launch VM using trystack)
+
+Link for Hadoop Installation - https://www.youtube.com/watch?v=5rJTP...
+word count program: https://youtu.be/knehmE6L0Qo
+
+Ex.8
+https://www.youtube.com/watch?v=1-tQz1K_k1g&t=11s
+
+Hadoop Download Link
+https://hadoop.apache.org/release/2.8.0.html
+
